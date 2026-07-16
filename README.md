@@ -224,7 +224,7 @@ This project provided practical experience in:
 🎓 B.Tech Computer Science Graduate
 
 - GitHub: https://github.com/sumanthx73
-- LinkedIn: *(Add your LinkedIn profile)*
+- LinkedIn: https://www.linkedin.com/in/sumanth73/
 
 ---
 
